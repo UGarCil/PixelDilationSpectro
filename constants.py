@@ -1,4 +1,4 @@
-import pygame 
+# import pygame 
 import cv2 
 from os.path import join as jn 
 import os 
